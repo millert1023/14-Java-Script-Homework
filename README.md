@@ -1,4 +1,4 @@
-# 14-Java-Script-Homework
+# JavaScript and DOM Manipulation
 
 ## Background
 
